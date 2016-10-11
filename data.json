@@ -1,0 +1,723 @@
+{
+  "name": "Neurodiversidade",
+  "children": [
+    {
+      "name": "Neurodesenvolvimentais",
+      "children": [
+        {
+          "name": "Deficiências Intelectuais"
+        },
+        {
+          "name": "Transtornos da Comunicação",
+          "children": [
+            {
+              "name": "Transtorno da Linguagem"
+            },
+            {
+              "name": "Transtorno da Fala"
+            },
+            {
+              "name": "Gagueira"
+            },
+            {
+              "name": "Transtorno da Comunicação Social"
+            }
+          ]
+        },
+        {
+          "name": "Espectro Autista"
+        },
+        {
+          "name": "Déficit de Atenção/Hiperatividade",
+          "children": [
+            {
+              "name": "Hiperativa e Desatenta"
+            },
+            {
+              "name": "Desatenta"
+            },
+            {
+              "name": "Hiperativa"
+            }
+          ]
+        },
+        {
+          "name": "Transtorno Específico da Aprendizagem",
+          "children": [
+            {
+              "name": "Dislexia"
+            },
+            {
+              "name": "Prejuízo na expressão escrita"
+            },
+            {
+              "name": "Discalculia"
+            }
+          ]
+        },
+        {
+          "name": "Transtornos Motores",
+          "children": [
+            {
+              "name": "Transtorno do Desenvolvimento da Coordenação"
+            },
+            {
+              "name": "Transtorno do Movimento Estereotipado"
+            },
+            {
+              "name": "Transtornos de Tique",
+              "children": [
+                {
+                  "name": "Transtorno de Tourette"
+                },
+                {
+                  "name": "Transtorno de Tique Motor"
+                },
+                {
+                  "name": "Transtorno de Tique Transitório"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name:": "Psicóticos",
+      "children": [
+        {
+          "name": "Delírio",
+          "children": [
+            {
+              "name": "Tipo erotomaníaco"
+            },
+            {
+              "name": "Tipo grandioso"
+            },
+            {
+              "name": "Tipo persecutório"
+            },
+            {
+              "name": "Tipo somático"
+            },
+            {
+              "name": "Tipo misto"
+            }
+          ]
+        },
+        {
+          "name": "Transtorno Psicótico Breve"
+        },
+        {
+          "name": "Transtorno Esquizofreniforme"
+        },
+        {
+          "name": "Esquizofrenia"
+        },
+        {
+          "name": "Transtorno Esquizoafetivo"
+        }
+      ]
+    },
+    {
+      "name": "Bipolares",
+      "children": [
+        {
+          "name": "Tipo 1"
+        },
+        {
+          "name": "Tipo 2"
+        },
+        {
+          "name": "Transtorno Ciclotímico"
+        }
+      ]
+    },
+    {
+      "name": "Depressões",
+      "children": [
+        {
+          "name": "Disrupção da Desregulação do Humor"
+        },
+        {
+          "name": "Depressão Maior"
+        },
+        {
+          "name": "Distimia"
+        },
+        {
+          "name": "Disforia Pré-Menstrual"
+        }
+      ]
+    },
+    {
+      "name": "Ansiedades",
+      "children": [
+        {
+          "name": "Ansiedade de Separação"
+        },
+        {
+          "name": "Mutismo Seletivo"
+        },
+        {
+          "name": "Fobia Específica"
+        },
+        {
+          "name": "Fobia Social"
+        },
+        {
+          "name": "Pânico"
+        },
+        {
+          "name": "Agorafobia"
+        },
+        {
+          "name": "Ansiedade Generalizada"
+        }
+      ]
+    },
+    {
+      "name": "Obsessivos-Compulsivos",
+      "children": [
+        {
+          "name": "Transtorno Obsessivo-Compulsivo"
+        },
+        {
+          "name": "Dismorfia Corporal"
+        },
+        {
+          "name": "Transtorno de Acumulação"
+        },
+        {
+          "name": "Tricotilomania"
+        },
+        {
+          "name": "Transtorno de Escoriação"
+        }
+      ]
+    },
+    {
+      "name": "Traumas e Estresses",
+      "children": [
+        {
+          "name": "Apego Reativo"
+        },
+        {
+          "name": "Interações Social Desinibida"
+        },
+        {
+          "name": "Estresse Pós Traumático",
+          "children": [
+            {
+              "name": "Com sintomas dissociativos"
+            },
+            {
+              "name": "Com expressão tardia"
+            }
+          ]
+        },
+        {
+          "name": "Estresse Agudo"
+        },
+        {
+          "name": "Transtorno de Adaptação",
+          "children": [
+            {
+              "name": "Com humor deprimido"
+            },
+            {
+              "name": "com ansiedade"
+            },
+            {
+              "name": "Misto de depressão e ansiedade"
+            },
+            {
+              "name": "Com perturbação da conduta"
+            },
+            {
+              "name": "Misto de perturbações da emoção e da conduta"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dissociativos",
+      "children": [
+        {
+          "name": "Dissociação de Identidade"
+        },
+        {
+          "name": "Amnésia Dissociativa"
+        },
+        {
+          "name": "Despersonalização"
+        }
+      ]
+    },
+    {
+      "name": "Somáticos",
+      "children": [
+        {
+          "name": "Transtorno de Sintomas Somáticos"
+        },
+        {
+          "name": "Ansiedade de Doença",
+          "children": [
+            {
+              "name": "Tipo busca de cuidado"
+            },
+            {
+              "name": "Tipo evitação de cuidados"
+            }
+          ]
+        },
+        {
+          "name": "Transtorno Conversivo"
+        },
+        {
+          "name": "Transtorno Factício"
+        }
+      ]
+    },
+    {
+      "name": "Alimentares",
+      "children": [
+        {
+          "name": "Pica"
+        },
+        {
+          "name": "Transtorno de Ruminação"
+        },
+        {
+          "name": "Transtorno Alimentar Restritiva"
+        },
+        {
+          "name": "Anorexia Nervosa",
+          "children": [
+            {
+              "name": "Tipo restritivo"
+            },
+            {
+              "name": "Tipo compulsão alimentar purgativa"
+            }
+          ]
+        },
+        {
+          "name": "Bulimia Nervosa"
+        },
+        {
+          "name": "Compulsão Alimentar"
+        }
+      ]
+    },
+    {
+      "name": "Eliminatórios",
+      "children": [
+        {
+          "name": "Enurese",
+          "children": [
+            {
+              "name": "Exclusivamente noturna"
+            },
+            {
+              "name": "Exclusivamente diurna"
+            },
+            {
+              "name": "Noturna e diurna"
+            }
+          ]
+        },
+        {
+          "name": "Encoprese",
+          "children": [
+            {
+              "name": "Com constipação e incontinência por extravasamento"
+            },
+            {
+              "name": "Sem constipação e incontinência por extravasamento"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sono-Vigília",
+      "children": [
+        {
+          "name": "Insônia"
+        },
+        {
+          "name": "Hipersonolência"
+        },
+        {
+          "name": "Narcolepsia",
+          "children": [
+            {
+              "name": "Sem cataplexia, com deficiência de hipocretina"
+            },
+            {
+              "name": "Com cataplexia, sem deficiência de hipocretina"
+            },
+            {
+              "name": "Ataxia cerebelar dominante autossômica, surdez e narcolepsia"
+            },
+            {
+              "name": "Narcolepsia autossômica dominante, obesidade e diabetes tipo 2"
+            },
+            {
+              "name": "Narcolepsia secundária a outra condição médica"
+            }
+          ]
+        },
+        {
+          "name": "Apneia"
+        },
+        {
+          "name": "Apneia Central do Sono",
+          "children": [
+            {
+              "name": "Tipo idiopática"
+            },
+            {
+              "name": "Respiração de Cheyne-Stokes"
+            },
+            {
+              "name": "Sono comórbida com uso de opioides"
+            }
+          ]
+        },
+        {
+          "name": "Hipoventilação do Sono",
+          "children": [
+            {
+              "name": "Idiopática"
+            },
+            {
+              "name": "Alveolar central congênita"
+            },
+            {
+              "name": "Relacionada ao sono comórbida"
+            }
+          ]
+        },
+        {
+          "name": "Transtorno do Sono-Vígilia do Ritmo Circadiano",
+          "children": [
+            {
+              "name": "Tipo fase do sono atrasada"
+            },
+            {
+              "name": "Tipo fase do sono avançada"
+            },
+            {
+              "name": "Tipo sono-vigília irregular"
+            },
+            {
+              "name": "Tipo sono-vigília não de 24 horas"
+            },
+            {
+              "name": "Tipo trabalho em turnos"
+            }
+          ]
+        },
+        {
+          "name": "Transtorno de Despertar do Sono Não REM",
+          "children": [
+            {
+              "name": "Sonambulismo"
+            },
+            {
+              "name": "Tipo terror no sono"
+            }
+          ]
+        },
+        {
+          "name": "Transtorno do Pesadelo"
+        },
+        {
+          "name": "Transtorno Comportamental do Sono REM"
+        },
+        {
+          "name": "Síndrome das Pernas Inquietas"
+        }
+      ]
+    },
+    {
+      "name": "Sexuais",
+      "children": [
+        {
+          "name": "Ejaculação Retardada",
+          "children": [
+            {
+              "name": "Ao longo da vida"
+            },
+            {
+              "name": "Adquirida"
+            }
+          ]
+        },
+        {
+          "name": "Inaptidão Erétil",
+          "children": [
+            {
+              "name": "Ao longo da vida"
+            },
+            {
+              "name": "Adquirida"
+            }
+          ]
+        },
+        {
+          "name": "Transtorno do Orgasmo Feminino",
+          "children": [
+            {
+              "name": "Ao longo da vida"
+            },
+            {
+              "name": "Adquirida"
+            }
+          ]
+        },
+        {
+          "name": "Transtorno do Interesse Sexual Feminino",
+          "children": [
+            {
+              "name": "Ao longo da vida"
+            },
+            {
+              "name": "Adquirida"
+            }
+          ]
+        },
+        {
+          "name": "Transtorno da Dor Pélvica",
+          "children": [
+            {
+              "name": "Ao longo da vida"
+            },
+            {
+              "name": "Adquirida"
+            }
+          ]
+        },
+        {
+          "name": "Transtorno do Desejo Sexuais Masculino Hipoativo",
+          "children": [
+            {
+              "name": "Ao longo da vida"
+            },
+            {
+              "name": "Adquirida"
+            }
+          ]
+        },
+        {
+          "name": "Ejaculação Prematura",
+          "children": [
+            {
+              "name": "Ao longo da vida"
+            },
+            {
+              "name": "Adquirida"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Disforias de Gênero",
+      "children": {
+        "name": "Disforia de Gênero"
+      }
+    },
+    {
+      "name": "Disruptivos",
+      "children": [
+        {
+          "name": "Oposição Desafiante"
+        },
+        {
+          "name": "Explosão Intermintente"
+        },
+        {
+          "name": "Transtorno da Conduta",
+          "children": [
+            {
+              "name": "Tipo com início na infância"
+            },
+            {
+              "name": "Tipo com início na adolescência"
+            },
+            {
+              "name": "Início não especificado"
+            }
+          ]
+        },
+        {
+          "name": "Piromania"
+        },
+        {
+          "name": "Cleptomania"
+        }
+      ]
+    },
+    {
+      "name": "Aditivos",
+      "children": [
+        {
+          "name": "Transtorno por Uso de Subtâncias"
+        },
+        {
+          "name": "Transtorno Induzida por Substâncias",
+          "children": [
+            {
+              "name": "Intoxicação e Abstinência de Substância"
+            },
+            {
+              "name": "Transtornos mentais induidospor Substâncias/Medicamentos"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Neurocognitivos",
+      "children": [
+        {
+          "name": "Delirium",
+          "children": [
+            {
+              "name": "Delirium por intoxicação por substância"
+            },
+            {
+              "name": "Delirium por abstinência de substância"
+            },
+            {
+              "name": "Delirium induzido por medicamento"
+            },
+            {
+              "name": "Delirium devido a outra condição médica"
+            },
+            {
+              "name": "Delirium devido a múltiplas etiologias"
+            }
+          ]
+        },
+        {
+          "name": "Doença de Alzheimer"
+        },
+        {
+          "name": "Degeneração lobar frontotemporal"
+        },
+        {
+          "name": "Doença com corpos de Lewy"
+        },
+        {
+          "name": "Disfunção Neurocognitivo Vascular"
+        },
+        {
+          "name": "Lesão cerebral traumática"
+        },
+        {
+          "name": "Infecção por HIV"
+        },
+        {
+          "name": "Doença do príon"
+        },
+        {
+          "name": "Doença de Parkinson"
+        },
+        {
+          "name": "Doença de Huntington"
+        }
+      ]
+    },
+    {
+      "name": "De personalidade",
+      "children": [
+        {
+          "name": "Personalidade Paranoide"
+        },
+        {
+          "name": "Personalidade Esquizoide"
+        },
+        {
+          "name": "Personalidade Esquizotípica"
+        },
+        {
+          "name": "Personalidade Antissocial"
+        },
+        {
+          "name": "Personalidade Borderline"
+        },
+        {
+          "name": "Personalidade Histriônica"
+        },
+        {
+          "name": "Personalidade Narcisista"
+        },
+        {
+          "name": "Personalidade Evitativa"
+        },
+        {
+          "name": "Personalidade Dependente"
+        },
+        {
+          "name": "Personalidade Obsessivo-Compulsivo"
+        },
+        {
+          "name": "Personalidade Histriônica"
+        }
+      ]
+    },
+    {
+      "name": "Parafílicos",
+      "children": [
+        {
+          "name": "Transtorno Voyeurista"
+        },
+        {
+          "name": "Transtorno Exibicionista",
+          "children": [
+            {
+              "name": "Excitado sexualmente pela exposição dos genitais a crianças pré-púberes"
+            },
+            {
+              "name": "Excitado sexualmente pela exposição dos genitais a indivíduos fisicamente maduros"
+            },
+            {
+              "name": "Excitado sexualmente pela exposição dos genitais a crianças pré-púberes e a indivíduos fisicamente maduros"
+            }
+          ]
+        },
+        {
+          "name": "Transtorno Frotteurista"
+        },
+        {
+          "name": "Transtorno do Masoquismo Sexual"
+        },
+        {
+          "name": "Transtorno do Sadismo Sexual"
+        },
+        {
+          "name": "Transtorno Pedofílico",
+          "children": [
+            {
+              "name": "Tipo exclusivo (com atração apenas por crianças)"
+            },
+            {
+              "name": "Tipo não exclusivo"
+            }
+          ]
+        },
+        {
+          "name": "Transtorno Fetichista"
+        },
+        {
+          "name": "Transtorno Transvéstico"
+        }
+      ]
+    }
+  ]
+}
